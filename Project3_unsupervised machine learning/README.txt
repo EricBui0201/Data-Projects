@@ -5,7 +5,7 @@
 - Link: http://liacs.leidenuniv.nl/~puttenpwhvander/library/cc2000/
 
 3. Approachs: 
-- Clustering using different methodology: KMeans, KMeans with PCA, Allgomerative cluster and Gaussian Mixture
+- Clustering using different methodology: KMeans, KMeans with PCA, Agglomerative cluster and Gaussian Mixture
 
 
 4. Results: 
