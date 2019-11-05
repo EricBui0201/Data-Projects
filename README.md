@@ -1,6 +1,6 @@
 # Data-Projects
 
-This is a collection of projects during the Data Analytics Bootcamp from August 2019 to October 2019. It contains 4 main projects: 
+This is a collection of projects during the Data Analytics Bootcamp from August 2019 to October 2019. It contains: 
 1. Airbnb web scraping to get the information about available rooms in the specified time periods defining by the user’s inputs (requests library)
 
 2. Movie revenues prediction using OLS and random forest (scikit-learn library) 
